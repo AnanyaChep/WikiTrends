@@ -257,5 +257,5 @@ with gr.Blocks(title="WikiTrends: Compare Wikipedia Page Views") as app:
 
 # Launch the app
 if __name__ == "__main__":
-    app.launch()
+    app.launch(share=True)
 
