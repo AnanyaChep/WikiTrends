@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1G0TVI31QIlBbEZ1HaBgQh3QnhA2cN_FU
 """
 
-!pip install gradio matplotlib pandas numpy requests
-
 import gradio as gr
 import pandas as pd
 import numpy as np
